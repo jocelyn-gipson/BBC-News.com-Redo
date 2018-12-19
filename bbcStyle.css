@@ -1,0 +1,6 @@
+html,body{
+margin:auto;
+}
+nav .col-1 {
+    display: inline;
+}
